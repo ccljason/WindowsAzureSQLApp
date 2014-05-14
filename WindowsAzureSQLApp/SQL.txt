@@ -1,0 +1,9 @@
+
+-- This is the sql script to create a certain things
+
+--This is to create a minimal login user:
+CREATE LOGIN guestuser1 WITH PASSWORD = 'G123@sql' 
+
+
+
+
